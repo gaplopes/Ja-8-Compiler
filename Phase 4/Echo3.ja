@@ -1,0 +1,16 @@
+class Echo{
+
+	public static void main(String[] m){
+		/*int a;
+		a = 1;
+		if(true && false && ((a = a-1) < 2)){
+			System.out.println("LUL");
+		}
+		System.out.println(a);
+		*/
+		
+		if(true && false && true && true && false){
+			System.out.println("LUL");
+		}
+	}
+}
